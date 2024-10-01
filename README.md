@@ -75,7 +75,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/сертификат.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/ManukhinaKA/ManukhinaKA.github.io/refs/heads/main/images/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.jpg)
+[<img src="/certificate.jpg" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/ManukhinaKA/ManukhinaKA.github.io/refs/heads/main/certificate.jpg)
 <!-- [<img src="/recommendation_qa.png" width="280px" hspace="10px" alt="Диплом">](https://raw.githubusercontent.com/German-D/German-D/main/recommendation_qa.png) -->
 
 <br>
