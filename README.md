@@ -77,6 +77,7 @@
 ## 🎒 Образование
 [<img src="/certificate.jpg" width="280px" hspace="10px" alt="Сертификат"/>](https://raw.githubusercontent.com/ManukhinaKA/ManukhinaKA.github.io/refs/heads/main/certificate.jpg)
 
+  <img src="https://raw.githubusercontent.com/ManukhinaKA/ManukhinaKA.github.io/refs/heads/main/certificate.jpg" title="Cертификат" alt="Сертификат" width="280" hspace="10px"/>
 <!-- [<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом">](ссылка) -->
 
 <br>
