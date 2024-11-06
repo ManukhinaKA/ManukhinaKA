@@ -78,7 +78,7 @@
 
 [<img src="https://raw.githubusercontent.com/ManukhinaKA/ManukhinaKA.github.io/refs/heads/main/certificate.jpg" width="280px" hspace="10px" alt="Сертификат"/>](https://raw.githubusercontent.com/ManukhinaKA/ManukhinaKA.github.io/refs/heads/main/certificate.jpg)
 
-<!-- [<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом">](ссылка) -->
+[<img src="https://raw.githubusercontent.com/ManukhinaKA/ManukhinaKA.github.io/refs/heads/main/images/0ef2d94acad.png" width="280px" hspace="10px" alt="Диплом">](https://raw.githubusercontent.com/ManukhinaKA/ManukhinaKA.github.io/refs/heads/main/images/0ef2d94acad.png)
 
 <br>
 <br>
